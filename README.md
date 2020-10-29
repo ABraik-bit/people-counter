@@ -1,7 +1,7 @@
-# Arduino People Counter
-This project is developed for the Learning Community Innovation Zone at The University of Connecticut
-The purpose for this project is to keep track of how many people are in the room
-Parts used:
+# Arduino People Counter  
+This project is developed for the Learning Community Innovation Zone at The University of Connecticut  
+The purpose for this project is to keep track of how many people are in the room  
+Parts used:  
 
 - Arduino UNO
 - 2 x Ultrasonic Sensors
